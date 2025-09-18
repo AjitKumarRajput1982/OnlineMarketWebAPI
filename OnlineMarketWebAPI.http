@@ -1,0 +1,6 @@
+@OnlineMarketWebAPI_HostAddress = http://localhost:5068
+
+GET {{OnlineMarketWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
