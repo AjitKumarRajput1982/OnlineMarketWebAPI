@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineMarketWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48018557149d383aca6232da2956df85f0173994")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineMarketWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineMarketWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

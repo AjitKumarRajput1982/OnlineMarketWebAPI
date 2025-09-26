@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineMarketWebAPI.DataBaseContext;
@@ -51,7 +52,7 @@ namespace OnlineMarketWebAPI.Controllers
             var carnoofowner = await _dbContext.carnoofowner.OrderBy(temp => temp.CarNoOfOwnerID).ToListAsync();
             return carnoofowner;
         }
-
+        
         [HttpGet("getcarstate")]
         public async Task<ActionResult<IEnumerable<State>>> getcarstate()
         {

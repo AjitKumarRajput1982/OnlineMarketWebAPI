@@ -26,7 +26,6 @@ E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticweb
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticwebassets.development.json
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\OnlineMa.9ECEDCDA.Up2Date
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\OnlineMarketWebAPI.dll
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\refint\OnlineMarketWebAPI.dll
@@ -287,3 +286,10 @@ E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\runtimes\
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\OnlineMarketWebAPI.RazorAssemblyInfo.cache
 E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\OnlineMarketWebAPI.RazorAssemblyInfo.cs
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\OnlineMarketWebAPI.sourcelink.json
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\System.Web.Cors.dll
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\System.Web.Http.dll
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\System.Web.Http.Cors.dll
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\VisualStudioCode\MVCApplication\OnlineMarketWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
